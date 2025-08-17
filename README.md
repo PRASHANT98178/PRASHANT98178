@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**PRASHANT98178/PRASHANT98178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Mayank Sharma
+🚀 Full Stack Developer | 🧠 Problem Solver
+🌟 About Me
+🔭 I’m currently working on Full Stack Web Applications and REST API Development
+🌱 Learning Data Structures & Algorithms, Scalable Backend Systems, and New Web Frameworks
+👯 Open to collaborate on Full Stack Projects, Open-Source Contributions, and Real-World Application Development
+🤝 Looking for help with Large-Scale Project Architecture and Advanced DSA Techniques
+💬 Ask me about Java, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, DSA, OPPS, REST APIs, and MVC Architecture
+📫 How to reach me: sharmamayank16117@gmail.com
+⚡ Fun fact: I can code for hours with music on and forget what time it is 🎧💻
