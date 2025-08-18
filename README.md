@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prashant Rawat  
 
-### 🎵 Frontend Developer | 🎧 Music Enthusiast  
+### 🚀 Full Stack Developer | 🧠 Problem Solver  
 
 ---
 
