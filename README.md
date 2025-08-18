@@ -4,12 +4,16 @@
 
 ---
 
-## 🌟 About This Project
-- 🎶 I built a **Spotify Clone** using **HTML, CSS, JavaScript, and Bootstrap**  
-- 🎨 Designed a responsive and modern UI with **Bootstrap**  
-- ⚡ Implemented **Play/Pause, Next, Previous, and Volume controls**  
-- 📱 Fully responsive for **mobile, tablet, and desktop**  
-- 🚀 Future scope: Add **search, playlists, and real music API integration**  
+## 🌟 About Me
+
+- 🛠️ I’m currently working on **Spotify Clone Project** using **HTML, CSS, JavaScript, and Bootstrap**  
+- 🌱 Learning **Java, DSA, Full Stack Development, and AI/ML Concepts**  
+- 🤝 Open to collaborate on **Web Development Projects, Open-Source Contributions, and Innovative Applications**  
+- 💡 Looking for help with **Large-Scale Project Architecture and Advanced DSA Techniques**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, and REST APIs**  
+- 📫 How to reach me: **[prashantrawat1211@gmail.com](mailto:yourmail@gmail.com)**  
+- ⚡ Fun fact: **I enjoy coding while listening to music 🎧💻**
+
 
 ---
 
